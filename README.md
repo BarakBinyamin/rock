@@ -8,13 +8,6 @@ coming soon...
 
 ## Planning
 
-Ideas: 
-1. Define and rank challanges
-2. Assign teams
-
-1. Should teams comunicate back to the team makers?
-2. Should teams research problems in full or should the research be done in the process of defining challanges. It is likely more chllanges will be found in the proecss of solving another.
-
 ### Structure
 1. Brainstorm challanges
 2. Define the relationship between challenges (For example: Is a challenge a driving factor of a another?)
@@ -38,4 +31,14 @@ Ideas:
 1. Research driving factors of the challange
 2. Evaluate the effects of this challenge
 3. ????
+
+
+Ideas: 
+1. Define and rank challanges
+2. Assign teams
+3. Teams Solse chalanges
+
+Questions:
+1. Should teams comunicate back to the team makers?
+2. Should teams research problems in full or should the research be done in the process of defining challanges. It is likely more chllanges will be found in the proecss of solving another.
 
